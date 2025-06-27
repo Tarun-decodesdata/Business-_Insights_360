@@ -2,8 +2,8 @@
 
 This is an end-to-end Power BI project analyzing the business performance of Atliq Hardware, using the Business Insights 360 dataset from codebasics.io.
 
-## Hi! I’m Tarun Kumar Senapati, a data enthusiast with a background in B.Sc. and M.Sc. in Statistics.  
-   I am currently preparing for a data analytics career, passionate about transforming data into actionable insights using Power BI, Excel, and other tools.  
+## About me
+Hi! I’m Tarun Kumar Senapati, a data enthusiast with a background in B.Sc. and M.Sc. in Statistics. I am currently preparing for a data analytics career, passionate about transforming data into actionable insights using Power BI, Excel, and other tools.  
    I am continuously building my skills through online learning and self-practice projects.
 
 ## About the Project
