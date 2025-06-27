@@ -21,7 +21,7 @@ Hi! I’m Tarun Kumar Senapati, a data enthusiast with a background in B.Sc. and
 
 Screenshots of key dashboards are available in this repository.  
 
-## PBIX LiNk
+## PBIX Link
 👉 https://app.powerbi.com/links/3QfNZCHRIP?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 
 ## Acknowledgements
